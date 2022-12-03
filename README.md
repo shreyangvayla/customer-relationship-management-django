@@ -5,39 +5,39 @@
 <table>
   <tr>
   <td align="center">
-      <a href="https://raw.githubusercontent.com/masoodmomin/teal-crm/main/screenshots/login.png">
-        <img src="screenshots/login.png" alt="Login Page">
+      <a href="https://github.com/shreyangvayla/customer-relationship-management-django/blob/dev_Shreyang/screenshots/Login.png">
+        <img src="screenshots/Login.png" alt="Login Page">
       </a>
       <br />
       <p>Login Page</p>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/masoodmomin/teal-crm/main/screenshots/dashboard.png">
-        <img src="screenshots/dashboard.png" alt="Dashboard">
+      <a href="https://github.com/shreyangvayla/customer-relationship-management-django/blob/dev_Shreyang/screenshots/Create_Lead.png">
+        <img src="screenshots/Create_Lead.png" alt="Create-Lead">
       </a>
       <br />
-      <p>Dashboard</p>
+      <p>Create-Leads</p>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/masoodmomin/teal-crm/main/screenshots/contacts.png">
-        <img src="screenshots/contacts.png" alt="Contacts">
+    <a href="https://github.com/shreyangvayla/customer-relationship-management-django/blob/dev_Shreyang/screenshots/Leads.png">
+        <img src="screenshots/Leads.png" alt="Leads">
       </a>
       <br />
-      <p>Contacts</p>
+      <p>Leads</p>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/masoodmomin/teal-crm/main/screenshots/product.png">
-        <img src="screenshots/product.png" alt="Products">
+      <a href="https://github.com/shreyangvayla/customer-relationship-management-django/blob/dev_Shreyang/screenshots/Agent.png">
+        <img src="screenshots/Agent.png" alt="Products">
       </a>
       <br />
-      <p>Products</p>
+      <p>Agent</p>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/masoodmomin/teal-crm/main/screenshots/tasks.png">
-        <img src="screenshots/tasks.png" alt="Tasks">
+      <a href="https://raw.githubusercontent.com/masoodmomin/teal-crm/main/screenshots/Agent_update.png">
+        <img src="screenshots/Agent_update.png" alt="Tasks">
       </a>
       <br />
-      <p>Tasks</p>
+      <p>Agent-Update</p>
     </td>
     </tr>
 </table>
