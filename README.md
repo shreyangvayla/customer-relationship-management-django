@@ -26,7 +26,7 @@
       <p>Leads</p>
     </td>
     <td align="center">
-      <a href="https://raw.githubusercontent.com/shreyangvayla/customer-relationship-management-django/blob/dev_Shreyang/screenshots/Agent.png">
+      <a href="https://raw.githubusercontent.com/shreyangvayla/customer-relationship-management-django/dev_Shreyang/screenshots/Agent.png">
         <img src="screenshots/Agent.png" alt="Products">
       </a>
       <br />
