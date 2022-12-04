@@ -7,6 +7,9 @@
 
 ![CRM ERD](https://user-images.githubusercontent.com/63964197/205486668-1a4ab7b7-bbe5-4787-99dd-8d0eb339fdb1.jpg)
 
+## Use Case
+![Usecase](https://user-images.githubusercontent.com/63964197/205495643-fec81a4d-7d62-48c4-9b16-59444767cf98.jpeg)
+
 ## Screenshots
 
 <table>
