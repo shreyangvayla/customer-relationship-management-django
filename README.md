@@ -1,4 +1,4 @@
-# Django CRM Project - Contact Management Project
+# Django CRM Project - Customer Management Project
 
 ### Project Contributers :
 1. Shreyang Vayla (65) 
