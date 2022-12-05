@@ -1,5 +1,11 @@
 # Django CRM Project - Contact Management Project
 
+### Project Contributers :
+1. Shreyang Vayla (65) 
+2. Vatsal Dhamanwala (48)
+3. Mansi Pal(63)
+4. Madhura khamkar (59)
+
 ## Description
 - Customer relationship management (CRM) is a technology for managing all your company’s relationships and interactions with customers and potential customers. The    goal is simple: Improve business relationships. A CRM system helps companies stay connected to customers, streamline processes, and improve profitability.
 
@@ -51,3 +57,6 @@
     </td>
     </tr>
 </table>
+
+
+
